@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
 <h3 align="center">A developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvaupadhyay&label=Profile%20views&color=ff0000&style=flat" alt="atharvaupadhyay" /> </p>
-
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=atharvaupadhyay&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" alt="atharvaupadhyay" /></a> </p>
 
 - 🔭 I’m currently working on **A Discord Bot**
