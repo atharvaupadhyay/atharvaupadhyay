@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
 <h3 align="center">A developer from India</h3>
-
+<h3 align="center">I'm a self taught programmer</h3>
+![counter](https://komarev.com/ghpvc/?username=atharvaupadhyay&label=Visits)
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=atharvaupadhyay&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" alt="atharvaupadhyay" /></a> </p>
 
 - 🔭 I’m currently working on **A Discord Bot**
@@ -12,6 +13,8 @@
 - 📫 How to reach me **atharva.upadhyay1099@gmail.com**
 
 - ⚡ Fun fact **I like playing valorant**
+
+- 😊 My Website **https://atharva-upadhyay.xyz/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
