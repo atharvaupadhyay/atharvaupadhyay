@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Discord: シAtharva#5374**
 
-- 📫 How to reach me **atharva.upadhyay1099@gmail.com**
+- 📫 How to reach me **atharva.upadhyay@protonmail.com**
 
 - ⚡ Fun fact **I like playing valorant**
 
