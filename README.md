@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 👯 I’m looking to collaborate on **Discord: シAtharva#0001
+- 👯 I’m looking to collaborate on **Discord: シAtharva#0001**
 
 - 📫 How to reach me **atharva.upadhyay@protonmail.com**
 
