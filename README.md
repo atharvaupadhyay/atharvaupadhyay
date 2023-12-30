@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 👯 I’m looking to collaborate on **Discord: シAtharva#0001**
+- 👯 I’m looking to collaborate on **Discord: atharvaupadhyay**
 
-- 📫 How to reach me **atharva.upadhyay@protonmail.com**
+- 📫 How to reach me **contact@atharvaupadhyay.is-a.dev**
 
 - ⚡ Fun fact **I like playing valorant**
