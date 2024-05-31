@@ -8,6 +8,8 @@
 
 - 👯 `I’m looking to collaborate on Discord: atharvaupadhyay`
 
+- ✉️ `My Email: contact@atharva.is-a.dev`
+
 - ⚡ `Fun fact I like playing valorant`
 
 - 📫 How to reach me:<br>
